@@ -172,5 +172,5 @@ Add call center mode
 
 🙌 Author
 
-Vishal Mehta
-AI/ML Developer • Electronic Engineer
+Abhinav Anand
+AI/ML Developer
